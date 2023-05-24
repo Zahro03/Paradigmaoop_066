@@ -4,10 +4,10 @@ using namespace std;
 
 class manusia {
 public:
-	string nama;
+	string name;
 	jantung varJantung;
 
-	manusia(string pNama)
+	manusia(string pName)
 		:name(pName) {
 		cout << name << "hidup\n";
 	}
