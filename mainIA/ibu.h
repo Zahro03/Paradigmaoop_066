@@ -20,6 +20,6 @@ void ibu::cetakAnak() {
 	for (auto& a : daftar_anak) {
 		cout << a->nama << "\n";
 	}
-	cout << endl;
+	cout << endl; 
 }
 #endif
