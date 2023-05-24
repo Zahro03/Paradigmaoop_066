@@ -30,7 +30,7 @@ public:
 	}
 
 	void tambahPasien(pasien*);
-	void  cetakPasien();
+	void  cetakPasien(); 
 };
 
 void pasien::tambahDokter(dokter* pDokter) {
