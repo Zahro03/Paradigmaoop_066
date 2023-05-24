@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Paradigmaoop.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Asosiasi.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
